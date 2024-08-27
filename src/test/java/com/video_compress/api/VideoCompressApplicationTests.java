@@ -1,0 +1,13 @@
+package com.video_compress.api;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VideoCompressApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
